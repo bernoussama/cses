@@ -1,3 +1,7 @@
+"""weird_algorithm
+"""
+
+
 def even(n: int):
     return n % 2 == 0
 
